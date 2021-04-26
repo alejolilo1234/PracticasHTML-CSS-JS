@@ -1,0 +1,16 @@
+{
+  "name": "alejo",
+  "version": "1.0.0",
+  "description": "This is the data selfie app by Jhon Abril.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "example",
+    "data",
+    "selfie"
+  ],
+  "author": "Jhon Abril",
+  "license": "ISC"
+}
